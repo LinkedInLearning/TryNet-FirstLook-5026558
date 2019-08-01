@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleConsole", "SimpleCons
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FromTemplate", "FromTemplate\FromTemplate.csproj", "{8F22A1E2-97D4-495B-815E-2C0694742767}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExampleHelpDocs", "ExampleHelpDocs\ExampleHelpDocs.csproj", "{21905421-72C6-4756-8D91-144546653590}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8F22A1E2-97D4-495B-815E-2C0694742767}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F22A1E2-97D4-495B-815E-2C0694742767}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F22A1E2-97D4-495B-815E-2C0694742767}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21905421-72C6-4756-8D91-144546653590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21905421-72C6-4756-8D91-144546653590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21905421-72C6-4756-8D91-144546653590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21905421-72C6-4756-8D91-144546653590}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
