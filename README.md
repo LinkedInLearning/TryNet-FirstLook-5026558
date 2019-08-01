@@ -1,8 +1,14 @@
 # Try .NET: FirstLook
 
-Try.NET First Look course on LinkedIn Learning
 
-This is the repository for the **LinkedIn Learning**  [Try .NET: First Look](#) course. The full course is available from [LinkedIn Learning](https://linkedin.com/learning) and on the Microsoft Docs site.
+This is the repository for the **LinkedIn Learning**  [Try .NET: First Look](#) course. The full course is available from [LinkedIn Learning](https://linkedin.com/learning) and on the [Microsoft Docs](https://docs.microsoft.com/en-us/samples/browse/) site.
+
+## What is Try .NET?
+Try .NET is a service created by Microsoft to help build interactive code samples. It provides an easy way to embed runnable .NET code snippets into a web page. For example,  you could embed the snippets into your company documentation website. Perfect for control vendors that have .NET tools. Or add live examples to your blog posts. Try.NET is also integrated into GitHub, this is helpful for open source projects that don’t have a dedicated documentation site.
+
+## This course
+
+This course looks at how to build a sample documentation site with `Markdown` files and `.NET console` applications.
 
 ## Branches
 
@@ -13,6 +19,7 @@ Some branches will have a beginning state (`04-01`) and an end state (`04-01e`).
 To use these exercise files, follow the instructions on the [Try .NET GitHub site](https://github.com/dotnet/try). For this course the instructor uses Visual Studio 2019, any edition is sufficient (Community, Professional, Enterprise).  You can use the course files in [Visual Studio Code](https://code.visualstudio.com/) instead or work with the .NET command line.
 
 ## About our .NET courses
+When you are ready to [learn more about .NET](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=.net) or [Visual Studi](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=visual%20studio)o, **LinkedIn Learning** has what you need. 
 
 ## About the Instructor - Walt Ritscher
 Check out my [other courses](https://www.linkedin.com/learning/instructors/walt-ritscher) on LinkedIn Learning.  Follow me on [LinkedIn](https://www.linkedin.com/in/waltritscher/?trk=lil_course) and [Twitter](https://twitter.com/waltritscher). 
