@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ExampleHelpDocs": {
+      "commandName": "Project",
+      "commandLineArgs": "--source-file ./DemoClasses/SyntaxDemos.cs --project ./ExampleHelpDocs.csproj --region ForLoop-Example"
+    }
+  }
+}

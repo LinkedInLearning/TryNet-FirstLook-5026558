@@ -21,21 +21,17 @@ namespace ExampleHelpDocs
             string project = null,
             string[] args = null)
         {
+	
             return region switch
             {
-                "HelloWorld" => HelloWorld(),
-                "DateTime" => DateTime(),
-                _ => throw new ArgumentException("A --region argument must be passed", nameof(region))
+							"If-Example" => SyntaxDemos.IfExample(),
+              "IfElse-Example" => SyntaxDemos.IfElseExample(),
+							"SwitchExpression-Example" => SyntaxDemos.SwitchExpressionExample(),
+							_ => throw new ArgumentException("A --region argument must be passed", nameof(region))
             };
         }
 
-        internal static int HelloWorld()
-        {
-            #region HelloWorld
-            Console.WriteLine("Hello World!");
-            #endregion
-            return 0;
-        }
+   
 
         internal static int DateTime()
         {
