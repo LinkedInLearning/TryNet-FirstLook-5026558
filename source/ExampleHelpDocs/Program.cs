@@ -27,18 +27,14 @@ namespace ExampleHelpDocs
 							"If-Example" => SyntaxDemos.IfExample(),
               "IfElse-Example" => SyntaxDemos.IfElseExample(),
 							"SwitchExpression-Example" => SyntaxDemos.SwitchExpressionExample(),
+							"LinqProjection-Example" => LinqDemos.LinqExample1(),
+							"LinqTransform-Example" => LinqDemos.LinqExample2(),
 							_ => throw new ArgumentException("A --region argument must be passed", nameof(region))
             };
         }
 
    
 
-        internal static int DateTime()
-        {
-            #region DateTime
-            Console.WriteLine(System.DateTime.Now);
-            #endregion
-            return 0;
-        }
+
     }
 }

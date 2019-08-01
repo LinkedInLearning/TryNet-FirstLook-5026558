@@ -4,14 +4,14 @@
 >Now with interactive code editor so you can follow along online!
 
 
-C# contains conditional branch statements. They are:
+Learn how to work in C# from our experts:
 
 ## Topics available
 
-* `Branching` [See it in action](BranchingDoc.md)
-* `Linq` [See it in action](BranchingDoc.md)
-* ...
-* ...
-* ...
+* `Branching` [See it in action](/Docs/BranchingDoc.md)
+* `Linq` [See it in action](/Docs/LinqDoc.md)
+* Topic A *
+* Topic B
 
+\* _In a real documentation site, you'd have links to additional markdown documents here._
 

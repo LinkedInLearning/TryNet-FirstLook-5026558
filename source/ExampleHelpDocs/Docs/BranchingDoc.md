@@ -12,12 +12,12 @@ C# contains conditional branch statements. They are:
 
 ## If statement
 
-```cs --source-file ./DemoClasses/SyntaxDemos.cs --project ./ExampleHelpDocs.csproj --region If-Example
+```cs --source-file ../DemoClasses/SyntaxDemos.cs --project ../ExampleHelpDocs.csproj --region If-Example
 ```
 
 ## If-Else statement
 
-```cs --source-file ./DemoClasses/SyntaxDemos.cs --project ./ExampleHelpDocs.csproj --region IfElse-Example
+```cs --source-file ../DemoClasses/SyntaxDemos.cs --project ../ExampleHelpDocs.csproj --region IfElse-Example
 ```
 
 ## Use the Switch Expression
@@ -28,5 +28,5 @@ C# contains conditional branch statements. They are:
 >The case keyword and the: have been replaced with a lambda arrow => for brevity.
 
 
-```cs --source-file ./DemoClasses/SyntaxDemos.cs --project ./ExampleHelpDocs.csproj --region SwitchExpression-Example
+```cs --source-file ../DemoClasses/SyntaxDemos.cs --project ../ExampleHelpDocs.csproj --region SwitchExpression-Example
 ```
