@@ -1,4 +1,4 @@
-﻿![](../Images/SiteLogo.png) <span style ="color:darkred;font-size:3em">Contoso Tutorials</span>
+﻿![](../Images/SiteLogo.png) <span style ="color:darkred;font-size:3em">Roux Academy Tutorials</span>
 
 # Query data in your code
 
