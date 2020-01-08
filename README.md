@@ -1,7 +1,7 @@
 # Try .NET: FirstLook
 
 
-This is the repository for the **LinkedIn Learning**  [Try .NET: First Look](#) course. The full course is available from [LinkedIn Learning](https://linkedin.com/learning) and on the [Microsoft Docs](https://docs.microsoft.com/en-us/samples/browse/) site.
+This is the repository for the **LinkedIn Learning**  [Try .NET: First Look](https://www.linkedin.com/learning/try-dot-net-first-look/run-try-dot-net-and-view-document) course. The full course is available from [LinkedIn Learning](https://linkedin.com/learning) and on the [Microsoft Docs](https://docs.microsoft.com/en-us/samples/browse/) site.
 
 ## What is Try .NET?
 Try .NET is a service created by Microsoft to help build interactive code samples. It provides an easy way to embed runnable .NET code snippets into a web page. For example,  you could embed the snippets into your company documentation website. Perfect for control vendors that have .NET tools. Or add live examples to your blog posts. Try.NET is also integrated into GitHub, this is helpful for open source projects that don’t have a dedicated documentation site.
@@ -24,4 +24,4 @@ When you are ready to [learn more about .NET](https://www.linkedin.com/learning/
 ## About the Instructor - Walt Ritscher
 Check out my [other courses](https://www.linkedin.com/learning/instructors/walt-ritscher) on LinkedIn Learning.  Follow me on [LinkedIn](https://www.linkedin.com/in/waltritscher/?trk=lil_course) and [Twitter](https://twitter.com/waltritscher). 
 
-![Walt Ritscher Headshot](https://media.licdn.com/dms/image/C4D03AQE8tjxoESjxoQ/profile-displayphoto-shrink_200_200/0?e=1565222400&v=beta&t=oAmWUfn9yWtXZdxPtUdvXvycgCNhNpN6IpsFrYo6mTo)
+![Walt Ritscher Headshot](https://38ydkq.dm.files.1drv.com/y4moADNYVNnmGDQCVwkufdGJmbpNZ-ym19j09TtRSOJpMSRFbMVFrRsM7DNZ5DRAY6tb1zsk_Df8ESybhbWypqCa8DXTuGbo4oAYE36t27l2LRgiGL42VVKEksULNm076nZQRfaL_Ew2cDw0V8IwcoztB46_RSn6biJd33elOHTDlDC6jy5kdTc7P8HW_F6TdSb?width=461&height=461&cropmode=none)
